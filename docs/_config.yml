@@ -1,0 +1,8 @@
+title: "People Lab"
+description: "People Lab company website"
+url: "https://peoplelab.ca"
+baseurl: ""
+theme: minima
+# Build settings
+markdown: kramdown
+plugins: [jekyll-feed]

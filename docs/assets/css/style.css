@@ -1,0 +1,6 @@
+/* Simple site styles */
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color: #222; line-height: 1.6; padding: 1.25rem; max-width: 840px; margin: 0 auto; }
+h1 { color: #0b4d8c; }
+a { color: #0b4d8c; text-decoration: none; }
+header { display:flex; align-items:center; gap:12px; margin-bottom:1rem;}
+.logo { width:56px; height:56px; }
